@@ -1,0 +1,67 @@
+Etapas do Plano Completo
+1. Fundamentos do Front-End (HTML, CSS, JavaScript) — 2 a 3 meses
+Estudar HTML5 todos os dias por 1 a 2 semanas
+
+Estrutura, semântica, formulários, tabelas
+
+Estudar CSS3 por 2 semanas a 1 mês
+
+Flexbox, Grid, animações, responsividade
+
+Estudar JavaScript (puro) por 1 mês
+
+Variáveis, funções, DOM, eventos, localStorage, requisições fetch
+
+Faria projetos práticos desde o início: clones de sites simples, portfólio, formulários.
+
+2. Aprendizado de Frameworks Front-End (React) — 1 mês
+Aprender React com foco em:
+
+Componentes, props, estado, useEffect, roteamento (React Router)
+
+Conexão com APIs
+
+Criar interfaces ricas, SPA (Single Page Apps)
+
+3. Back-End com Python (Flask ou Django) — 1 a 2 meses
+Aprender Python orientado à web
+
+Escolher:
+
+Flask (leve, didático) ou
+
+Django (completo, robusto)
+
+Criar APIs REST e sistemas com banco de dados (SQLite ou PostgreSQL)
+
+4. Banco de Dados (SQL e NoSQL) — 1 a 2 semanas
+Estudar SQL: SELECT, JOIN, INSERT, etc.
+
+Usar bancos relacionais (PostgreSQL, MySQL) e talvez MongoDB
+
+5. Git e Deploy (Básico de DevOps) — 1 semana
+Aprender Git e GitHub
+
+Fazer deploy no Vercel, Netlify (front) e Render, Railway ou Heroku (back)
+
+🛠️ Ferramentas e Softwares
+VS Code
+
+Git + GitHub
+
+Postman (testar APIs)
+
+Figma (design e protótipos)
+
+Vercel, Netlify, Render (deploys)
+
+✅ Meus Critérios para Dizer “Dominei”:
+Fiz projetos reais com front-end e back-end
+
+Consegui clonar sites e criar projetos do zero
+
+Tenho um portfólio online
+
+Sei resolver problemas sozinho com documentação
+
+Consigo pegar freela ou vaga júnior com segurança

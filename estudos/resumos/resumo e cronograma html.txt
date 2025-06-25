@@ -1,0 +1,40 @@
+Dia	Curso	Conteúdo	Meta
+13/05	Danki Code	Introdução, estrutura básica HTML	Criar primeira página com título, parágrafo, imagem, link
+
+14/05	Curso em Vídeo	Estrutura básica, parágrafos e títulos	Fazer exercício de formatação + links
+
+15/05	Danki Code	Tags de imagem, links e listas	Criar página com listas de links e imagens
+
+16/05	Curso em Vídeo	Listas, imagens, hierarquia de títulos	Projeto: cardápio de restaurante
+
+17/05	Danki Code	Tabelas e estrutura de layout	Criar tabela de preços ou horários
+
+18/05	Curso em Vídeo	Tabelas, agrupamento de dados	Exercício de tabela com cabeçalho e rodapé
+
+19/05	Danki Code	Formulários – inputs, labels, buttons	Criar formulário de contato
+
+20/05	Curso em Vídeo	Formulários completos (radio, checkbox)	Projeto: formulário de cadastro
+
+21/05	Danki Code	Tags semânticas (header, nav, etc.)	Criar layout com semântica básica
+
+22/05	Curso em Vídeo	Semântica e acessibilidade	Refatorar página com estrutura semântica correta
+
+23/05	Danki Code	Boas práticas e SEO básico	Revisar e aplicar SEO em projeto
+
+24/05	Curso em Vídeo	Validação, acessibilidade, boas práticas	Validar HTML com W3C e ajustar
+
+25/05	Livre	Projeto final (landing page completa)	Criar uma página do zero com tudo aprendido
+
+26/05	Livre	Revisão geral e checklist	Revisar tudo, anotar dúvidas e ajustar detalhes
+
+Como saber que DOMINOU HTML5:
+Você consegue criar um site do zero sem colar código.
+
+Usa tags semânticas de forma natural (<section>, <article>, <nav>, etc.).
+
+Sabe montar formulários com todos os elementos.
+
+Seu código é limpo, indentado e passa no validador do W3C.
+
+Consegue ler um HTML alheio e entender tudo que está ali.
+
